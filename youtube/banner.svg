@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  YouTube channel banner for @Warble-Tech.
+  Native size: 2560 x 1440 (YouTube max upload).
+  Safe area (visible on all devices): center 1235 x 338, around y=550..888.
+  Render to PNG with: rsvg-convert -w 2560 -h 1440 banner.svg > banner.png
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#06090C"/>
+      <stop offset="55%" stop-color="#08130E"/>
+      <stop offset="100%" stop-color="#0a1f1a"/>
+    </linearGradient>
+
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#10b981"/>
+      <stop offset="55%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#10b981" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" x="0" y="0" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#0f2e26" stroke-width="1" opacity="0.4"/>
+    </pattern>
+
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+
+    <symbol id="bird" viewBox="0 0 100 100">
+      <!-- Stylised flying bird, gradient-filled -->
+      <path d="M10 60 C 30 50, 45 50, 58 56 L 78 38 L 72 60 L 92 60 L 70 72 L 78 92 L 58 72 C 45 78, 30 78, 10 70 Z"
+            fill="url(#brand)" opacity="0.95"/>
+      <path d="M30 60 Q 45 30, 70 50 Q 50 56, 38 68 Z"
+            fill="url(#brand)" opacity="0.85"/>
+      <circle cx="80" cy="52" r="3" fill="#06090C"/>
+    </symbol>
+  </defs>
+
+  <!-- Background -->
+  <rect width="2560" height="1440" fill="url(#bg)"/>
+  <rect width="2560" height="1440" fill="url(#grid)"/>
+
+  <!-- Glow halo behind logo -->
+  <circle cx="1100" cy="720" r="520" fill="url(#glow)"/>
+
+  <!-- Decorative birds drifting across (small, distant) -->
+  <g opacity="0.28">
+    <use href="#bird" x="220"  y="240" width="90"  height="90" transform="rotate(-8 265 285)"/>
+    <use href="#bird" x="2100" y="1080" width="70"  height="70" transform="rotate(12 2135 1115)"/>
+    <use href="#bird" x="1900" y="220" width="55"  height="55" transform="rotate(-15 1928 248)"/>
+    <use href="#bird" x="380"  y="1140" width="60"  height="60" transform="rotate(8 410 1170)"/>
+  </g>
+
+  <!-- ── SAFE AREA: 1235 x 338 centred at (1280, 720) ── -->
+  <!-- (Outline kept invisible; render reference rect commented out) -->
+  <!--<rect x="662" y="551" width="1235" height="338" fill="none" stroke="#10b981" stroke-dasharray="6 6" opacity="0.2"/>-->
+
+  <!-- Main bird mark, large -->
+  <use href="#bird" x="640" y="540" width="280" height="280"/>
+
+  <!-- Wordmark -->
+  <text x="970" y="700"
+        font-family="'DejaVu Sans','Plus Jakarta Sans','Inter',system-ui,sans-serif"
+        font-size="170" font-weight="800" letter-spacing="-6"
+        fill="#ffffff">warble</text>
+  <text x="1500" y="700"
+        font-family="'DejaVu Sans','Plus Jakarta Sans','Inter',system-ui,sans-serif"
+        font-size="170" font-weight="800" letter-spacing="-6"
+        fill="url(#brand)">cloud</text>
+
+  <!-- Tagline -->
+  <text x="970" y="780"
+        font-family="'DejaVu Sans','Plus Jakarta Sans','Inter',system-ui,sans-serif"
+        font-size="50" font-weight="500" letter-spacing="2"
+        fill="#94a3b8">Cloud-native AI ops, live on YouTube.</text>
+
+  <!-- Pillars row -->
+  <g font-family="'DejaVu Sans Mono','JetBrains Mono','Menlo',monospace" font-size="26" font-weight="600" fill="#10b981" letter-spacing="3">
+    <text x="970" y="850">STARLING</text>
+    <text x="1170" y="850" fill="#0ea5b7">·  REFLEXION</text>
+    <text x="1410" y="850" fill="#06b6d4">·  MURMURATION</text>
+    <text x="1700" y="850" fill="#8b5cf6">·  BRAIN</text>
+    <text x="1840" y="850" fill="#f59e0b">·  FRAKMA</text>
+  </g>
+
+  <!-- Channel handle pill (top-right) -->
+  <g transform="translate(2120 100)">
+    <rect x="0" y="0" width="320" height="76" rx="38" fill="#10b981" opacity="0.14"/>
+    <rect x="0" y="0" width="320" height="76" rx="38" fill="none" stroke="#10b981" stroke-width="2"/>
+    <text x="160" y="50" text-anchor="middle"
+          font-family="'JetBrains Mono','Menlo',monospace"
+          font-size="32" font-weight="700" fill="#10b981" letter-spacing="2">@Warble-Tech</text>
+  </g>
+
+  <!-- Bottom-left: cadence badge -->
+  <g transform="translate(120 1280)">
+    <rect x="0" y="0" width="640" height="76" rx="20" fill="#06090C" opacity="0.7"/>
+    <rect x="0" y="0" width="640" height="76" rx="20" fill="none" stroke="#0f2e26" stroke-width="2"/>
+    <circle cx="36" cy="38" r="8" fill="#10b981">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="62" y="50"
+          font-family="'Plus Jakarta Sans','Inter',system-ui,sans-serif"
+          font-size="32" font-weight="700" fill="#e2e8f0" letter-spacing="1">Office Hours · Saturdays 7pm IST · Live</text>
+  </g>
+
+  <!-- Bottom-right: domain -->
+  <text x="2440" y="1330" text-anchor="end"
+        font-family="'JetBrains Mono','Menlo',monospace"
+        font-size="34" font-weight="600" fill="#4a7060" letter-spacing="2">warblecloud.com</text>
+</svg>
