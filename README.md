@@ -1,8 +1,10 @@
-# Warble Cloud — Community
+# Warble OSS / Warble Cloud — Community
 
-> Birds of a feather. The flock home for everything community around Warble Cloud — Office Hours, working groups, RFCs, governance, and the public showcase.
+> Birds of a feather. The flock home for Warble open source and Warble Cloud community — Office Hours, working groups, RFCs, governance, and the public showcase.
 
-This repo is the **front door** to the Warble Cloud open community. Code lives in product repos under [github.com/warble-tech](https://github.com/warble-tech). This repo is for everything that surrounds the code.
+**Open source home:** [warbleoss.org](https://warbleoss.org) · **Code flock:** [warble-army](https://github.com/warble-tech/warble-army) (ShrikeOps, Heron Ops, Starling EX Community).
+
+This repo is the **front door** to community process (not product source). Product code lives under [github.com/warble-tech](https://github.com/warble-tech).
 
 ## Where to start
 
