@@ -2,9 +2,9 @@
 
 > Birds of a feather. The flock home for Warble open source and Warble Cloud community — Office Hours, working groups, RFCs, governance, and the public showcase.
 
-**Open source home:** [warbleoss.org](https://warbleoss.org) · **Code flock:** [warble-army](https://github.com/warble-tech/warble-army) (ShrikeOps, Heron Ops, Starling EX Community).
+**Open source home:** [warbleoss.org](https://warbleoss.org) · **Code flock:** [warble-army](https://github.com/warbletech/warble-army) (ShrikeOps, Heron Ops, Starling EX Community).
 
-This repo is the **front door** to community process (not product source). Product code lives under [github.com/warble-tech](https://github.com/warble-tech).
+This repo is the **front door** to community process (not product source). Product code lives under [github.com/warbletech](https://github.com/warbletech).
 
 ## Where to start
 
