@@ -11,7 +11,7 @@ This repo is the **front door** to community process (not product source). Produ
 | If you want to... | Go here |
 |---|---|
 | Join the next session live | [Office Hours](#office-hours) — every Saturday 7–8 PM IST |
-| Chat with the community | [Discord](https://discord.gg/WHsJkEFTt) |
+| Chat with the community | [Discord](https://discord.gg/kAfR57mVDX) |
 | Propose a change | [RFCs](rfcs/) |
 | Join a working group | [Working Groups](working-groups/) |
 | Showcase your work | Open a PR to [`showcase/`](showcase/) |
@@ -23,7 +23,7 @@ This repo is the **front door** to community process (not product source). Produ
 **Every Saturday · 7:00–8:00 PM IST · Discord voice room**
 
 - 📅 [Subscribe to the calendar](https://warblecloud.com/community/office-hours/warble-office-hours.ics)
-- 🎙️ [Join Discord](https://discord.gg/WHsJkEFTt) and pop into the **Office Hours** voice room
+- 🎙️ [Join Discord](https://discord.gg/kAfR57mVDX) and pop into the **Office Hours** voice room
 - 📝 Session notes and recordings: [`office-hours/`](office-hours/)
 
 What we usually cover:
