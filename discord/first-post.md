@@ -25,7 +25,7 @@ Warble Cloud's Discord server is now public. If you build on Kubernetes, run AI 
    Open mic. Real questions. Stack reviews welcome.
    📅 https://warblecloud.com/community/office-hours
 
-🤝 **Community repo is live:** https://github.com/warble-tech/community
+🤝 **Community repo is live:** https://github.com/warbletech/community
    Governance, RFCs, working groups, showcase. Everything in the open.
 
 **How to get rolling:**

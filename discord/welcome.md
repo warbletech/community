@@ -12,7 +12,7 @@ Warble Cloud is a small team building **open, GCP-native AI ops** — five produ
 
 ## 🚀 Start here
 
-**1. Read `#rules`.** It's two minutes. We take the Code of Conduct seriously: https://github.com/warble-tech/community/blob/main/CODE_OF_CONDUCT.md
+**1. Read `#rules`.** It's two minutes. We take the Code of Conduct seriously: https://github.com/warbletech/community/blob/main/CODE_OF_CONDUCT.md
 
 **2. Pick your roles** in `#roles`. React to the emoji for areas you care about — Starling, Reflexion, Murmuration, Brain, FRAKMA, FinOps. We use these to ping you only when relevant.
 
@@ -46,9 +46,9 @@ Open code · open issues · open community.
 
 🌐 Site — https://warblecloud.com
 📖 Docs — https://warblecloud.com/devcentral
-🐙 GitHub — https://github.com/warble-tech
+🐙 GitHub — https://github.com/warbletech
 🎬 YouTube — https://www.youtube.com/@Warble-Tech
-🤝 Community repo — https://github.com/warble-tech/community
+🤝 Community repo — https://github.com/warbletech/community
 
 If something's broken or missing, ping `@maintainers` — we read everything.
 

@@ -14,7 +14,7 @@ Quick orientation:
 • #office-hours — Saturdays 7-8pm IST, open mic
 
 Site: https://warblecloud.com
-Community repo: https://github.com/warble-tech/community
+Community repo: https://github.com/warbletech/community
 YouTube: https://www.youtube.com/@Warble-Tech
 
 Birds of a feather. 🐦
@@ -36,8 +36,8 @@ For deeper walkthroughs, see https://www.youtube.com/@Warble-Tech
 
 ### `!github` or `!repo`
 ```
-🐙 https://github.com/warble-tech
-Community repo (governance, RFCs, showcase): https://github.com/warble-tech/community
+🐙 https://github.com/warbletech
+Community repo (governance, RFCs, showcase): https://github.com/warbletech/community
 ```
 
 ### `!products`
@@ -55,20 +55,20 @@ More: https://warblecloud.com/experience-center
 ```
 🌟 Built something with Warble? Share it!
    • Drop a quick link in #showcase
-   • Or open a PR: https://github.com/warble-tech/community/tree/main/showcase
+   • Or open a PR: https://github.com/warbletech/community/tree/main/showcase
    Accepted entries land at https://warblecloud.com/showcase
 ```
 
 ### `!rfc` or contains "rfc"
 ```
-📋 RFC process: https://github.com/warble-tech/community/blob/main/rfcs/README.md
-Template: https://github.com/warble-tech/community/blob/main/rfcs/TEMPLATE.md
+📋 RFC process: https://github.com/warbletech/community/blob/main/rfcs/README.md
+Template: https://github.com/warbletech/community/blob/main/rfcs/TEMPLATE.md
 ```
 
 ### `!coc` or `!conduct`
 ```
 We follow the Contributor Covenant v2.1.
-Full text: https://github.com/warble-tech/community/blob/main/CODE_OF_CONDUCT.md
+Full text: https://github.com/warbletech/community/blob/main/CODE_OF_CONDUCT.md
 Report: conduct@warblecloud.com (48-hour response, reporter privacy protected)
 ```
 

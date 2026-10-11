@@ -13,7 +13,7 @@ Server invite: **[warblecloud.com/discord](https://warblecloud.com/discord)** (r
 
 ## Server structure
 
-See [the Discord setup playbook in warble-core CLAUDE notes](https://github.com/warble-tech/warble-core) — channel layout, roles, GitHub webhook wiring.
+See [the Discord setup playbook in warble-core CLAUDE notes](https://github.com/warbletech/warble-core) — channel layout, roles, GitHub webhook wiring.
 
 ## Vanity URL plan
 

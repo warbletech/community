@@ -6,7 +6,7 @@
 
 # Warble Cloud — server rules
 
-We follow the [Contributor Covenant Code of Conduct](https://github.com/warble-tech/community/blob/main/CODE_OF_CONDUCT.md). Read it. The TL;DR is below.
+We follow the [Contributor Covenant Code of Conduct](https://github.com/warbletech/community/blob/main/CODE_OF_CONDUCT.md). Read it. The TL;DR is below.
 
 ## 1. Be excellent
 
@@ -42,6 +42,6 @@ DM any moderator, or email **conduct@warblecloud.com**. We respond within 48 hou
 
 ---
 
-By staying in the server, you agree to these rules. Violations escalate per the [enforcement guidelines](https://github.com/warble-tech/community/blob/main/CODE_OF_CONDUCT.md#enforcement-guidelines): Correction → Warning → Temp ban → Permanent ban.
+By staying in the server, you agree to these rules. Violations escalate per the [enforcement guidelines](https://github.com/warbletech/community/blob/main/CODE_OF_CONDUCT.md#enforcement-guidelines): Correction → Warning → Temp ban → Permanent ban.
 
 🐦 *Birds of a feather.*

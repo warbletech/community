@@ -10,7 +10,7 @@ Anyone who participates — asks questions in Office Hours, opens issues, commen
 
 ### Contributors
 
-Members who have landed at least one merged PR or issue resolution across any [warble-tech](https://github.com/warble-tech) repo. Contributors get the **Contributor** role on Discord.
+Members who have landed at least one merged PR or issue resolution across any [warbletech](https://github.com/warbletech) repo. Contributors get the **Contributor** role on Discord.
 
 ### Maintainers
 
@@ -21,7 +21,7 @@ Contributors who have demonstrated sustained, high-quality contributions in a sp
 - Drive RFCs to a decision
 - Vote in community-wide decisions
 
-Current maintainers are listed in each repo's [`MAINTAINERS.md`](https://github.com/warble-tech).
+Current maintainers are listed in each repo's [`MAINTAINERS.md`](https://github.com/warbletech).
 
 ### Working Group leads
 

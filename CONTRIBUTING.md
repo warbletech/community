@@ -8,15 +8,15 @@ Thanks for considering a contribution. This page covers how to land a PR, what w
 
 | What | Where |
 |---|---|
-| Code | Product repos under [github.com/warble-tech](https://github.com/warble-tech) — `warble-core`, `starling`, `reflexion`, etc. |
-| Docs | [`warble-core/frontend/src/app/devcentral`](https://github.com/warble-tech/warble-core/tree/main/frontend/src/app/devcentral) and the relevant product repo |
+| Code | Product repos under [github.com/warbletech](https://github.com/warbletech) — `warble-core`, `starling`, `reflexion`, etc. |
+| Docs | [`warble-core/frontend/src/app/devcentral`](https://github.com/warbletech/warble-core/tree/main/frontend/src/app/devcentral) and the relevant product repo |
 | RFCs | [`rfcs/`](rfcs/) in this repo |
 | Showcase entries | [`showcase/`](showcase/) in this repo |
 | Working group artifacts | [`working-groups/<wg>`](working-groups/) in this repo |
 
 ## Good first issues
 
-Issues labeled [`good first issue`](https://github.com/search?q=org%3Awarble-tech+label%3A%22good+first+issue%22+state%3Aopen&type=issues) across `warble-tech` are the best entry points.
+Issues labeled [`good first issue`](https://github.com/search?q=org%3Awarbletech+label%3A%22good+first+issue%22+state%3Aopen&type=issues) across `warbletech` are the best entry points.
 
 ## PR checklist
 
@@ -37,7 +37,7 @@ Before opening a PR:
 
 ## Signing commits
 
-Commits to all `warble-tech` repos must be signed (GPG, SSH, or via GitHub's signed-by-web). Unsigned commits are blocked at merge time.
+Commits to all `warbletech` repos must be signed (GPG, SSH, or via GitHub's signed-by-web). Unsigned commits are blocked at merge time.
 
 ## DCO
 
