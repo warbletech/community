@@ -86,8 +86,8 @@ What you'll find here:
   · RFC walkthroughs
 
 Site:      https://warblecloud.com
-Community: https://github.com/warble-tech/community
-GitHub:    https://github.com/warble-tech
+Community: https://github.com/warbletech/community
+GitHub:    https://github.com/warbletech
 LinkedIn:  https://www.linkedin.com/company/warble-cloud
 
 #kubernetes #gcp #aiops #devops #mcp #vertexai
