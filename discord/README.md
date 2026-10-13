@@ -18,4 +18,4 @@ See [the Discord setup playbook in warble-core CLAUDE notes](https://github.com/
 ## Vanity URL plan
 
 Goal: `discord.gg/warblecloud` (= `discord.com/invite/warblecloud`).
-Requires **Server Boost Level 3** (14 boosts). Until then, run with the regular permanent invite and update `NEXT_PUBLIC_DISCORD_INVITE` env var when ready — `/discord` short-link auto-follows.
+Requires **Server Boost Level 3** (14 boosts). Until then, run with the regular permanent invite (currently https://discord.gg/kAfR57mVDX) and update `NEXT_PUBLIC_DISCORD_INVITE` env var when ready — `/discord` short-link auto-follows.

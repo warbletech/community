@@ -45,6 +45,6 @@ By contributing, you agree your contributions are licensed under the project's s
 
 ## Getting help
 
-- **Discord** — fastest. [https://discord.gg/warblecloud](https://discord.gg/warblecloud)
+- **Discord** — fastest. [https://discord.gg/kAfR57mVDX](https://discord.gg/kAfR57mVDX)
 - **Office Hours** — Saturdays 7–8pm IST
 - **Email** — [hello@warblecloud.com](mailto:hello@warblecloud.com) for anything that doesn't fit the above

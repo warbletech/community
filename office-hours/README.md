@@ -3,7 +3,7 @@
 **Every Saturday · 7:00–8:00 PM IST · Discord voice room**
 
 📅 **[Subscribe to the calendar (.ics)](https://warblecloud.com/community/office-hours/warble-office-hours.ics)**
-🎙️ **[Join Discord](https://discord.gg/warblecloud)**
+🎙️ **[Join Discord](https://discord.gg/kAfR57mVDX)**
 🐦 **[Schedule on warblecloud.com](https://warblecloud.com/community/office-hours)**
 
 ## Format
