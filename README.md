@@ -62,4 +62,4 @@ Built something with Warble? Add yourself to [`showcase/`](showcase/) — talks,
 
 ## License
 
-Content in this repo is licensed under [CC BY 4.0](LICENSE) unless noted. Code samples are MIT.
+Everything in this repo (docs and code samples) is licensed under the [Apache License 2.0](LICENSE), the same licence as the other Warble Army OSS repos.
