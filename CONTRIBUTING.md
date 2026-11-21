@@ -41,7 +41,7 @@ Commits to all `warbletech` repos must be signed (GPG, SSH, or via GitHub's sign
 
 ## DCO
 
-By contributing, you agree your contributions are licensed under the project's stated license (MIT for code, CC BY 4.0 for docs).
+By contributing, you agree your contributions are licensed under the [Apache License 2.0](LICENSE).
 
 ## Getting help
 
