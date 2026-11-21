@@ -77,4 +77,4 @@ Built something with Warble? Add yourself to [`showcase/`](showcase/) — talks,
 
 ## License
 
-Content in this repository is licensed under [Apache-2.0](LICENSE). The LICENSE file change itself is in [pull request #4](https://github.com/warbletech/community/pull/4), which is still open; this README is written to match that relicensing.
+Content in this repository (docs and code samples) is licensed under the [Apache License 2.0](LICENSE).
